@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "sample_employee_policy.pdf",
+    "page": 1,
+    "text": "Employee Attendance Policy\nPurpose\nThis policy explains the attendance expectations for employees. Working Hours\nStandard working hours are 9:00 AM to 5:00 PM, Monday through Friday. Late Arrival\nEmployees who expect to arrive late should notify their manager as soon as possible. Absence Reporting\nEmployees must inform their manager when they cannot attend work. Any formal\nleave request must follow the organization's approved leave procedure."
+  },
+  {
+    "chunk_id": 1,
+    "source": "sample_employee_policy.pdf",
+    "page": 2,
+    "text": "Information Security Guidelines\nPassword Security\nEmployees must use strong, unique passwords for work accounts. Passwords\nmust not be shared with colleagues. Confidential Information\nCompany documents and customer information must only be accessed by\nauthorized personnel. Confidential files must not be shared with unauthorized\nindividuals. Security Incidents\nSuspected data loss, unauthorized access, or phishing messages should be\nreported promptly to the IT or security team."
+  },
+  {
+    "chunk_id": 2,
+    "source": "sample_employee_policy.pdf",
+    "page": 3,
+    "text": "Leave and Remote Work Guidelines\nLeave Requests\nEmployees should submit leave requests through the organization's designated\napproval process. Approval depends on applicable company policy. Remote Work\nRemote work requires authorization from the employee's manager. Employees\nworking remotely must protect confidential information and use approved\nsystems. Policy Questions\nEmployees who need clarification should contact their manager or Human\nResources."
+  }
+]
